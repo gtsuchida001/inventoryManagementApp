@@ -1,0 +1,17 @@
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\bin\Debug\net8.0-windows\inventoryManagementApp.exe
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\bin\Debug\net8.0-windows\inventoryManagementApp.deps.json
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\bin\Debug\net8.0-windows\inventoryManagementApp.runtimeconfig.json
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\bin\Debug\net8.0-windows\inventoryManagementApp.dll
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\bin\Debug\net8.0-windows\inventoryManagementApp.pdb
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.Form1.resources
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.csproj.GenerateResource.cache
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.AssemblyInfoInputs.cache
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.AssemblyInfo.cs
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.sourcelink.json
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.dll
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\refint\inventoryManagementApp.dll
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.pdb
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\inventoryManagementApp.genruntimeconfig.cache
+C:\Users\tsuchida\source\repo\inventoryManagementApp\inventoryManagementApp\obj\Debug\net8.0-windows\ref\inventoryManagementApp.dll
